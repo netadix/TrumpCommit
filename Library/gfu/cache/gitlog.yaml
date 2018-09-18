@@ -1,0 +1,1015 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-09-17T16:15:08.677+09:00
+  initializedAtString: 2018-09-17T16:00:55.593+09:00
+  log:
+  - commitID: f1fec52f7ca8d948a2926195d98210a78760d036
+    mergeA: 
+    mergeB: 
+    authorName: netadix
+    authorEmail: BZG22203@nifty.com
+    commitEmail: BZG22203@nifty.com
+    commitName: netadix
+    summary: commit 2nd
+    description: "commit 2nd\r\n\r\njust in case."
+    timeString: 2018-09-17T15:56:08.000+09:00
+    commitTimeString: 2018-09-17T15:56:08.000+09:00
+    changes:
+    - path: Assets\MainGame.unity
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\MainGame.unity
+      projectPath: Assets\MainGame.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\mexico_field.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\mexico_field.png.meta
+      projectPath: Assets\mexico_field.png.meta
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 351400c558ae2070e53511dee2b6f63cb41249b7
+    mergeA: 
+    mergeB: 
+    authorName: netadix
+    authorEmail: BZG22203@nifty.com
+    commitEmail: BZG22203@nifty.com
+    commitName: netadix
+    summary: 1st release
+    description: "1st release\r\n\r\n1st release"
+    timeString: 2018-09-12T00:12:34.000+09:00
+    commitTimeString: 2018-09-12T00:12:34.000+09:00
+    changes:
+    - path: Assets\BukiSentakuFlypan 1.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuFlypan
+        1.png
+      projectPath: Assets\BukiSentakuFlypan 1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuFlypan 1.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuFlypan
+        1.png.meta
+      projectPath: Assets\BukiSentakuFlypan 1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuFlypan.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuFlypan.png
+      projectPath: Assets\BukiSentakuFlypan.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuFlypan.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuFlypan.png.meta
+      projectPath: Assets\BukiSentakuFlypan.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuIchroBat.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuIchroBat.png
+      projectPath: Assets\BukiSentakuIchroBat.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuIchroBat.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuIchroBat.png.meta
+      projectPath: Assets\BukiSentakuIchroBat.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuKaitenFlypan.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuKaitenFlypan.png
+      projectPath: Assets\BukiSentakuKaitenFlypan.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuKaitenFlypan.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuKaitenFlypan.png.meta
+      projectPath: Assets\BukiSentakuKaitenFlypan.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuOtaniBat.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuOtaniBat.png
+      projectPath: Assets\BukiSentakuOtaniBat.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukiSentakuOtaniBat.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukiSentakuOtaniBat.png.meta
+      projectPath: Assets\BukiSentakuOtaniBat.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukisentakuErea.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukisentakuErea.png
+      projectPath: Assets\BukisentakuErea.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukisentakuErea.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukisentakuErea.png.meta
+      projectPath: Assets\BukisentakuErea.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukisentakuTrumpTower.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukisentakuTrumpTower.png
+      projectPath: Assets\BukisentakuTrumpTower.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\BukisentakuTrumpTower.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\BukisentakuTrumpTower.png.meta
+      projectPath: Assets\BukisentakuTrumpTower.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ControlFlypan1.cs
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\ControlFlypan1.cs
+      projectPath: Assets\ControlFlypan1.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ControlFlypan1.cs.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\ControlFlypan1.cs.meta
+      projectPath: Assets\ControlFlypan1.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Flypan1PreFub.prefab
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Flypan1PreFub.prefab
+      projectPath: Assets\Flypan1PreFub.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Flypan1PreFub.prefab.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Flypan1PreFub.prefab.meta
+      projectPath: Assets\Flypan1PreFub.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\GameManager.cs
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\GameManager.cs
+      projectPath: Assets\GameManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\GameManager.cs.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\GameManager.cs.meta
+      projectPath: Assets\GameManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MainGame.unity
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\MainGame.unity
+      projectPath: Assets\MainGame.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MainGame.unity.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\MainGame.unity.meta
+      projectPath: Assets\MainGame.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MexicanAction.cs
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\MexicanAction.cs
+      projectPath: Assets\MexicanAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MexicanAction.cs.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\MexicanAction.cs.meta
+      projectPath: Assets\MexicanAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Mexico_man02_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Mexico_man02_03.png
+      projectPath: Assets\Mexico_man02_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Mexico_man02_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Mexico_man02_03.png.meta
+      projectPath: Assets\Mexico_man02_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Mexico_man02_03.prefab
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Mexico_man02_03.prefab
+      projectPath: Assets\Mexico_man02_03.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Mexico_man02_03.prefab.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Mexico_man02_03.prefab.meta
+      projectPath: Assets\Mexico_man02_03.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\border.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\border.png
+      projectPath: Assets\border.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\border.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\border.png.meta
+      projectPath: Assets\border.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\bukisentaku.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\bukisentaku.png
+      projectPath: Assets\bukisentaku.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\bukisentaku.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\bukisentaku.png.meta
+      projectPath: Assets\bukisentaku.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images.meta
+      projectPath: Assets\images.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Bingo_c_06.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Bingo_c_06.png
+      projectPath: Assets\images\Bingo_c_06.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Bingo_c_06.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Bingo_c_06.png.meta
+      projectPath: Assets\images\Bingo_c_06.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuChoziryoFlaypan.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuChoziryoFlaypan.png
+      projectPath: Assets\images\BukiSentakuChoziryoFlaypan.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuChoziryoFlaypan.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuChoziryoFlaypan.png.meta
+      projectPath: Assets\images\BukiSentakuChoziryoFlaypan.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuFlypan.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuFlypan.png
+      projectPath: Assets\images\BukiSentakuFlypan.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuFlypan.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuFlypan.png.meta
+      projectPath: Assets\images\BukiSentakuFlypan.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuIchroBat.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuIchroBat.png
+      projectPath: Assets\images\BukiSentakuIchroBat.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuIchroBat.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuIchroBat.png.meta
+      projectPath: Assets\images\BukiSentakuIchroBat.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuKaitenFlypan.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuKaitenFlypan.png
+      projectPath: Assets\images\BukiSentakuKaitenFlypan.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuKaitenFlypan.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuKaitenFlypan.png.meta
+      projectPath: Assets\images\BukiSentakuKaitenFlypan.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuOtaniBat.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuOtaniBat.png
+      projectPath: Assets\images\BukiSentakuOtaniBat.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuOtaniBat.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuOtaniBat.png.meta
+      projectPath: Assets\images\BukiSentakuOtaniBat.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuwaku.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuwaku.png
+      projectPath: Assets\images\BukiSentakuwaku.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukiSentakuwaku.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukiSentakuwaku.png.meta
+      projectPath: Assets\images\BukiSentakuwaku.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukisentakuErea.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukisentakuErea.png
+      projectPath: Assets\images\BukisentakuErea.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukisentakuErea.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukisentakuErea.png.meta
+      projectPath: Assets\images\BukisentakuErea.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukisentakuTrumpTower.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukisentakuTrumpTower.png
+      projectPath: Assets\images\BukisentakuTrumpTower.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\BukisentakuTrumpTower.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\BukisentakuTrumpTower.png.meta
+      projectPath: Assets\images\BukisentakuTrumpTower.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Frying_pan2_04.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Frying_pan2_04.png
+      projectPath: Assets\images\Frying_pan2_04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Frying_pan2_04.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Frying_pan2_04.png.meta
+      projectPath: Assets\images\Frying_pan2_04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Frying_pan2b_04.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Frying_pan2b_04.png
+      projectPath: Assets\images\Frying_pan2b_04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Frying_pan2b_04.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Frying_pan2b_04.png.meta
+      projectPath: Assets\images\Frying_pan2b_04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man02_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man02_03.png
+      projectPath: Assets\images\Mexico_man02_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man02_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man02_03.png.meta
+      projectPath: Assets\images\Mexico_man02_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man02b_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man02b_03.png
+      projectPath: Assets\images\Mexico_man02b_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man02b_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man02b_03.png.meta
+      projectPath: Assets\images\Mexico_man02b_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man03_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man03_03.png
+      projectPath: Assets\images\Mexico_man03_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\Mexico_man03_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\Mexico_man03_03.png.meta
+      projectPath: Assets\images\Mexico_man03_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\border.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\border.png
+      projectPath: Assets\images\border.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\border.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\border.png.meta
+      projectPath: Assets\images\border.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\bukisentaku.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\bukisentaku.png
+      projectPath: Assets\images\bukisentaku.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\bukisentaku.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\bukisentaku.png.meta
+      projectPath: Assets\images\bukisentaku.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\mexico_field.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\mexico_field.png
+      projectPath: Assets\images\mexico_field.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\mexico_field.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\mexico_field.png.meta
+      projectPath: Assets\images\mexico_field.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\target_02.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\target_02.png
+      projectPath: Assets\images\target_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\target_02.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\target_02.png.meta
+      projectPath: Assets\images\target_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\trump_pentagon_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\trump_pentagon_03.png
+      projectPath: Assets\images\trump_pentagon_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\images\trump_pentagon_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\images\trump_pentagon_03.png.meta
+      projectPath: Assets\images\trump_pentagon_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\mexico_field.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\mexico_field.png
+      projectPath: Assets\mexico_field.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\mexico_field.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\mexico_field.png.meta
+      projectPath: Assets\mexico_field.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\trump_pentagon_03.png
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\trump_pentagon_03.png
+      projectPath: Assets\trump_pentagon_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\trump_pentagon_03.png.meta
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\trump_pentagon_03.png.meta
+      projectPath: Assets\trump_pentagon_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 671289d99c3104614ab059dd6f49233223ab2ac3
+    mergeA: 
+    mergeB: 
+    authorName: netadix
+    authorEmail: BZG22203@nifty.com
+    commitEmail: BZG22203@nifty.com
+    commitName: netadix
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-09-12T00:00:15.000+09:00
+    commitTimeString: 2018-09-12T00:00:15.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Public\Documents\Unity Projects\TrumpCommitSample\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

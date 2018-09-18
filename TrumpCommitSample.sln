@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpCommitSample", "TrumpCommitSample.csproj", "{C4159D4F-6378-3A63-C2C9-3BAF6334F3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpCommitSample.Editor.Plugins", "TrumpCommitSample.Editor.Plugins.csproj", "{04786199-F670-C1F8-22A7-025074843DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4159D4F-6378-3A63-C2C9-3BAF6334F3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4159D4F-6378-3A63-C2C9-3BAF6334F3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4159D4F-6378-3A63-C2C9-3BAF6334F3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4159D4F-6378-3A63-C2C9-3BAF6334F3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04786199-F670-C1F8-22A7-025074843DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04786199-F670-C1F8-22A7-025074843DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04786199-F670-C1F8-22A7-025074843DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04786199-F670-C1F8-22A7-025074843DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
